@@ -1,4 +1,4 @@
-30 SQL Questions
+30 Hard SQL Questions
 1. Pairs
 2. Mountain Huts & Trails
 3. Footer
